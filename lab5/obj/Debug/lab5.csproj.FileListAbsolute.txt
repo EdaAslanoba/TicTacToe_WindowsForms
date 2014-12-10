@@ -1,0 +1,18 @@
+\\vmware-host\shared folders\documents\visual studio 2012\Projects\lab5\lab5\bin\Debug\lab5.exe.config
+\\vmware-host\shared folders\documents\visual studio 2012\Projects\lab5\lab5\bin\Debug\lab5.exe
+\\vmware-host\shared folders\documents\visual studio 2012\Projects\lab5\lab5\bin\Debug\lab5.pdb
+\\vmware-host\shared folders\documents\visual studio 2012\Projects\lab5\lab5\obj\Debug\lab5.Form1.resources
+\\vmware-host\shared folders\documents\visual studio 2012\Projects\lab5\lab5\obj\Debug\lab5.Properties.Resources.resources
+\\vmware-host\shared folders\documents\visual studio 2012\Projects\lab5\lab5\obj\Debug\lab5.csproj.GenerateResource.Cache
+\\vmware-host\shared folders\documents\visual studio 2012\Projects\lab5\lab5\obj\Debug\lab5.exe
+\\vmware-host\shared folders\documents\visual studio 2012\Projects\lab5\lab5\obj\Debug\lab5.pdb
+\\vmware-host\shared folders\documents\visual studio 2012\Projects\lab5\lab5\obj\Debug\lab5.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\EdaAslanoba On My Mac\Dropbox\EC 447\lab5\lab5\bin\Debug\lab5.exe.config
+\\vmware-host\Shared Folders\EdaAslanoba On My Mac\Dropbox\EC 447\lab5\lab5\obj\Debug\lab5.exe
+\\vmware-host\Shared Folders\EdaAslanoba On My Mac\Dropbox\EC 447\lab5\lab5\obj\Debug\lab5.pdb
+\\vmware-host\Shared Folders\EdaAslanoba On My Mac\Dropbox\EC 447\lab5\lab5\bin\Debug\lab5.exe
+\\vmware-host\Shared Folders\EdaAslanoba On My Mac\Dropbox\EC 447\lab5\lab5\bin\Debug\lab5.pdb
+\\vmware-host\Shared Folders\EdaAslanoba On My Mac\Dropbox\EC 447\lab5\lab5\obj\Debug\lab5.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\EdaAslanoba On My Mac\Dropbox\EC 447\lab5\lab5\obj\Debug\lab5.Form1.resources
+\\vmware-host\Shared Folders\EdaAslanoba On My Mac\Dropbox\EC 447\lab5\lab5\obj\Debug\lab5.Properties.Resources.resources
+\\vmware-host\Shared Folders\EdaAslanoba On My Mac\Dropbox\EC 447\lab5\lab5\obj\Debug\lab5.csproj.GenerateResource.Cache
